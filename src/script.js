@@ -1,4 +1,4 @@
-if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.platform)) {
-    console.log("yeap")
-    document.getElementById('Test').style.color = "Green"
+var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+if (isMobile) {
+  console.log("hi")
 }
