@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" type="text/css" href="../../src/styles.css">
+<link rel="shortcut icon" type="image/jpg" href="src/Favicon.png">
+
+<head>
+	<title>Chapter Name</title>
+</head>
+
+<body class="body-bg">
+
+<!-- Heading -->
+	<img src="../../src/Logo.jpeg" width="200" height="150" class="center-image">
+	<h1 class="heading-story">Chapter Name</h1>
+	<hr>
+	<br>
+
+</body>
+</html>
