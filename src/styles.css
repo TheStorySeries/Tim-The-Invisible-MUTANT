@@ -1,0 +1,45 @@
+/*Google Font*/
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Supermercado+One&display=swap');
+
+/*
+font-family: 'Comic Neue', cursive;
+font-family: 'Supermercado One', cursive;
+*/
+
+/*Centering Image CSS Value*/
+.center-image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*Home Page CSS Values*/
+.body-bg {
+	background-color: black;
+}
+
+.link-home {
+	font-size: 225%;
+	font-family: 'Supermercado One', cursive;
+}
+
+/*Story CSS Values*/
+.text-story {
+	font-family: 'Comic Neue', cursive;
+	color: white;
+	font-size: 150%;
+}
+
+.button-story {
+	font-size: 20px;
+	display: block;
+	margin: 0 auto;
+	background-color: black;
+	color: lime;
+}
+
+.heading-story {
+	text-align: center;
+	color: gold;
+	font-family: 'Supermercado One', cursive;
+}
