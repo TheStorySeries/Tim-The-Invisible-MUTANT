@@ -1,9 +1,9 @@
 /*Google Font*/
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Josefin+Sans&display=swap');
 
 /*
-font-family: 'Comic Neue', cursive;
-font-family: 'Supermercado One', cursive;
+font-family: 'Balsamiq Sans', cursive;
+font-family: 'Josefin Sans', sans-serif;
 */
 
 /*Centering Image CSS Value*/
@@ -20,7 +20,7 @@ font-family: 'Supermercado One', cursive;
 
 .link-home {
 	font-size: 225%;
-	font-family: 'Supermercado One', cursive;
+	font-family: 'Balsamiq Sans', cursive;
 }
 
 /*Story CSS Values*/
@@ -41,5 +41,5 @@ font-family: 'Supermercado One', cursive;
 .heading-story {
 	text-align: center;
 	color: gold;
-	font-family: 'Supermercado One', cursive;
+	font-family: 'Balsamiq Sans', cursive;
 }
