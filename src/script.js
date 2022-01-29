@@ -1,7 +1,7 @@
 var isMobile = window.navigator.userAgentData?.mobile
 
 if (isMobile) {
-	document.write("Mobile")
+	// document.write("Mobile")
 }else {
-	document.write("Lap")
+	// document.write("Lap")
 }
